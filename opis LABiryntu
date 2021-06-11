@@ -1,0 +1,57 @@
+wizja3 (mapa)
+########
+###   M#
+#   ####
+# #  H##
+# # # ##
+##h #@##
+##### ##
+#     ##
+#S######
+########
+
+wizja2
+??????
+??????
+??????
+???@ @
+???@A@
+@@@@ @
+     @
+S@@@@@
+
+wizja1
+@ @
+@A@
+@ @
+
+
+znaki
+#
+@
+h
+H
+S
+M
+
+
+% <- granica mapy
+@ <- ściana
+# <- gracz na drabinie
+A <- gracz
+H/h <- drabina góra dół
+S <- Start
+M <- Meta
+m <- meta ale nie na tym piętrze
+
+Menu
+
+>Start/Wznów
+Wielkość 50x100
+wyjście
+
+sterowanie
+ w
+asd  <sterowanie
+x <-użycie drabiny
+m < przejście do menu
